@@ -1,4 +1,5 @@
 # myfirstrepo
 this is my first repository
 <br>
-author hina singh
+author hina singh baghel
+
